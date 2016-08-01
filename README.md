@@ -4,7 +4,7 @@ Cocos2D v3.4 template that does not require SpriteBuilder
 ## Usage:
 
 ```
-git clone --recursive https://github.com/slembcke/UnofficialCocos2DTemplate.git
+git clone --recursive https://github.com/wqddy/NewGameCocos.git
 cd UnofficialCocos2DTemplate
 ./RenameProject.rb
 ```
